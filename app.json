@@ -24,6 +24,21 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyBdO07S-PU-68tQdJxXkSXSatMSi--rWvI",
+        "authDomain": "barbershop-19029.firebaseapp.com",
+        "projectId": "barbershop-19029",
+        "storageBucket": "barbershop-19029.firebasestorage.app",
+        "messagingSenderId": "779502463483",
+        "appId": "1:779502463483:web:566959be7180820759035e"
+      },
+      "email": {
+        "resendApiKey": "",
+        "fromAddress": "Barbershop <no-reply@yourdomain.com>",
+        "brandName": "Barbershop"
+      }
     }
   }
 }

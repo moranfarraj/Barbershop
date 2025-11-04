@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@google-cloud/firestore": "^7.11.6",
     "expo": "~54.0.20",
     "expo-status-bar": "~3.0.8",
+    "firebase": "^12.4.0",
+    "firebase-admin": "^13.5.0",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "^5.6.1"
   },
   "private": true
 }

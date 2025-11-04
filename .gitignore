@@ -2,6 +2,7 @@
 
 # dependencies
 node_modules/
+.npm-cache/
 
 # Expo
 .expo/
@@ -32,6 +33,7 @@ yarn-error.*
 
 # local env files
 .env*.local
+serviceAccountKey.json
 
 # typescript
 *.tsbuildinfo
@@ -39,3 +41,5 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+barbershop-19029-firebase-adminsdk-fbsvc-449f3e476f.json
+scripts/
